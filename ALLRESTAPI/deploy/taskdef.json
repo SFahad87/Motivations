@@ -1,0 +1,33 @@
+{
+  "family": "allrestapi-task",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "256",
+  "memory": "512",
+  "executionRoleArn": "arn:aws:iam::162694240632:role/ecsTaskExecutionRole",
+  "containerDefinitions": [
+    {
+      "name": "allrestapi",
+      "image": "162694240632.dkr.ecr.ap-southeast-6.amazonaws.com/allrestapi:latest",
+      "portMappings": [
+        {
+          "containerPort": 8080,
+          "protocol": "tcp"
+        }
+      ],
+      "environment": [
+        { "name": "ASPNETCORE_URLS", "value": "http://+:8080" },
+        { "name": "ASPNETCORE_ENVIRONMENT", "value": "Production" }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/allrestapi",
+          "awslogs-region": "ap-southeast-6",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "essential": true
+    }
+  ]
+}

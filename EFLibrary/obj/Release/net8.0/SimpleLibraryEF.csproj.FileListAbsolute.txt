@@ -1,0 +1,29 @@
+Z:\backend general prep\EF\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.deps.json
+Z:\backend general prep\EF\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.runtimeconfig.json
+Z:\backend general prep\EF\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.dll
+Z:\backend general prep\EF\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.pdb
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.csproj.AssemblyReference.cache
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.GeneratedMSBuildEditorConfig.editorconfig
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.AssemblyInfoInputs.cache
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.AssemblyInfo.cs
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.csproj.CoreCompileInputs.cache
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.dll
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\refint\SimpleLibraryEF.dll
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.pdb
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.genruntimeconfig.cache
+Z:\backend general prep\EF\EFLibrary\obj\Release\net8.0\ref\SimpleLibraryEF.dll
+Z:\Repos\02072026\DEVOPS\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.deps.json
+Z:\Repos\02072026\DEVOPS\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.runtimeconfig.json
+Z:\Repos\02072026\DEVOPS\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.dll
+Z:\Repos\02072026\DEVOPS\EFLibrary\bin\Release\net8.0\SimpleLibraryEF.pdb
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.csproj.AssemblyReference.cache
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.AssemblyInfoInputs.cache
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.AssemblyInfo.cs
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.csproj.CoreCompileInputs.cache
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.sourcelink.json
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.dll
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\refint\SimpleLibraryEF.dll
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.pdb
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\SimpleLibraryEF.genruntimeconfig.cache
+Z:\Repos\02072026\DEVOPS\EFLibrary\obj\Release\net8.0\ref\SimpleLibraryEF.dll

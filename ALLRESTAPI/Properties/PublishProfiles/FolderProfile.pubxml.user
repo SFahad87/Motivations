@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ALLRESTAPI</_PublishTargetUrl>
+    <History>True|2026-07-05T20:36:10.7839398Z||;False|2026-07-06T08:35:48.2428847+12:00||;False|2026-07-06T08:35:07.9317708+12:00||;False|2026-07-06T08:35:00.9340623+12:00||;False|2026-07-06T08:34:53.3512534+12:00||;True|2026-07-06T08:29:41.0379848+12:00||;False|2026-07-06T08:28:53.0348047+12:00||;False|2026-07-06T08:28:07.1386749+12:00||;False|2026-07-06T08:27:42.6365210+12:00||;False|2026-07-06T08:27:27.1588758+12:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
